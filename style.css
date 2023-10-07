@@ -1,0 +1,46 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    background-color: blue;
+}
+
+label {
+    display: block;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 10px;
+}
+.phone-container {
+    display: flex;
+    justify-content: center;
+}
+
+.phone-container img {
+    width: 200px;
+    margin: 10px;
+}
+.details-container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1, h2, p {
+    text-align: center;
+    color: red;
+    background-color: blue;
+}
